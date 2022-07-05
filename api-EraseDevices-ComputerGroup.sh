@@ -16,8 +16,9 @@ username=""
 password=""
 URL="https://server.jamfcloud.com"
 
-# Smart Device Group ID in Jamf Pro
+# Smart Computer Group ID in Jamf Pro
 compDeviceGroupID=""
+#Computer Passcode to set on erase
 devicePasscode=""
 
 # MDM Action to be sent
