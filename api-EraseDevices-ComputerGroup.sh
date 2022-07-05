@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This API script will:
-# 1. Look at the membership of a specific Computer Group in Jamf Pro
+# 1. Look at the membership of a specific Smart Computer Group in Jamf Pro
 # 2. For each computer in the Smart Group, push an 'Erase Device' MDM Command
 #
 # Original for mobile devices Created 5.13.2022 @robjschroeder
